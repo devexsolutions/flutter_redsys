@@ -1,0 +1,2 @@
+configurations.maybeCreate("redsys-lib")
+artifacts.add("redsys-lib", file('sdkinapp-library.aar'))

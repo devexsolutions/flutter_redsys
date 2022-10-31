@@ -1,0 +1,4 @@
+rootProject.name = 'plugin_redsys'
+include ':redsys-lib'
+
+//project(':redsys-lib').projectDir = new File('/redsys-lib/sdkinapp-library.aar')
